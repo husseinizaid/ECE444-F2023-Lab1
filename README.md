@@ -7,3 +7,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 ### Activity 2: Example 2-1/2-2
 ![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/ea678201-1db0-41ca-bc31-21b4975f23ba)
+
+### Activity 3: Activity 3
+![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/520ea621-c7c0-4a2b-bcc2-b2b58a5dd394)
+
