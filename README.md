@@ -16,5 +16,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 ![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/0df863a7-08f5-475c-9633-5e88a7af0304)
 
-![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/f1f3db0e-047e-482a-8bb0-f7be4e9fc59f)
+![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/3d3fa24f-f757-43c3-9fdf-f32c6afa2cd4)
+
 
