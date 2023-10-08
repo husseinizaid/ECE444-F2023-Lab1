@@ -11,3 +11,12 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 ### Activity 3: Activity 3
 ![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/520ea621-c7c0-4a2b-bcc2-b2b58a5dd394)
 
+### Activity 4: Activity 4
+![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/6517e99e-0cf5-4bca-8259-de5196babc0d)
+
+![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/0df863a7-08f5-475c-9633-5e88a7af0304)
+
+![image](https://github.com/husseinizaid/ECE444-F2023-Lab1/assets/144946719/74560577-9d50-423b-87eb-985a23a4db3b)
+
+
+
